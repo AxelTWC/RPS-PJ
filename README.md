@@ -6,4 +6,4 @@ A FreshStart Project On The Take of DL and ML
 - This is a very beginner level project , but needed to start somewhere else from strict Master's education.
 
 
-CUDA Version: 12.4
+CUDA Version: 12.4 | GPU Version: RTX 3080 Mobile ( With CUDA 12.5 Support ) 
